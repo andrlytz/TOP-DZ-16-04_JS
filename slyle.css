@@ -1,0 +1,124 @@
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 2px solid black;
+    width: 1200px;
+    padding: 10px;
+    margin: 50px auto;
+    background-color: #dac5a699;
+}
+
+.box1 {
+    display: inline-block;
+    margin: 0;
+    width: 25%;
+    vertical-align: top;
+    text-align: center;
+}
+
+.box2 {
+    display: inline-block;
+    width: 49%;
+    height: 600px;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    vertical-align: top;
+    text-align: center;
+}
+
+.box-top {
+    height: 200px;
+    border-bottom: 2px solid black;
+    padding: 30px;
+}
+
+.box-bottom {
+    position: relative;
+    height: 300px;
+    padding-top: 40px
+}
+
+.box2 img {
+    display: inline-block;
+    
+
+}
+
+.box2 h1 {
+    display: block;
+    margin: 20px auto 0;
+    font-size: 80px;
+}
+
+#but-start {
+    width: 200px;
+    height: 80px;
+    font-size: 50px;
+}
+
+#but1 {
+    display: block;
+    margin: 20px auto;
+}
+
+#but2 {
+    display: block;
+    margin: 20px auto;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 10px 20px 0 0;
+    height: 80px;
+    width: 100px;
+    text-align: center;
+}
+
+li img {
+    text-align: center;
+}
+
+li button {
+    margin-left: 10px;
+}
+
+#pomidor {
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+#shljpa {
+    position: absolute;
+    top: 75px;
+    left: 85px;
+}
+
+#tatoo {
+    position: absolute;
+    top: 130px;
+    left: 140px;
+}
+
+#ochki {
+    position: absolute;
+    top: 140px;
+    left: 105px;
+}
+
+#ruki {
+    position: absolute;
+    top: 170px;
+    left: 50px;
+    transform: rotate(-30deg);
+}
